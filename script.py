@@ -1,4 +1,4 @@
-input_string = '&Hero21438uu321jdsdaw#&*#'
+input_string = 'cats@catmanager.com ex@mple-string "inquotes"'
 
 dict = {
   '{' : "&#123;",
